@@ -24,11 +24,11 @@ echo ""
 printf "$resetall $blue $b"
 echo "      MODIFIED BY :"
 printf "$green"
-figlet " " R A J
+figlet " " MMARIFAT
 printf "$resetcol $blue"
 echo "    Contact Email :"
 printf "$b $green"
-echo "  sarfarazraj217@gmail.com"
+echo "  mmar.ifat66@gmail.com"
 printf "$resetall $yellow"
 echo "_____________________________________"
 echo ""
